@@ -55,6 +55,17 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://i.postimg.cc/g2Lg716D/imbaygdhgefsdjkflaskdjdddddddddddd.png"
+              isBlog={false}
+              title="E Commerce Website"
+              description="This is ecommerce shopping website for women. This websie i create within 3 week using react.js and chakra ui. Some functionality of this website are we can cart the produt and buy the product and in this website also has admin page their we can edit any product delite product and we can add any product. I create only frontend part of this websie"
+              ghLink="https://github.com/sudiptadip/Full-ecommerce.git"
+              demoLink="https://ladies-special-ecommerce.vercel.app/"         
+            />
+          </Col>
+
         </Row>
       </Container>
     </Container>

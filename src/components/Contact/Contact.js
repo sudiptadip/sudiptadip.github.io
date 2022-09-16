@@ -38,7 +38,7 @@ function Contact() {
                   </a>
                 </li>
                   <a style={{fontSize: '150%'}} >
-                    +91 9073777793
+                    +91 9073777793 
                   </a>
                 </div>
                 <div style={{marginTop: '2%'}} >
