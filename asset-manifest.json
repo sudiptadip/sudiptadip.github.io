@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.f9b95faa.css",
-    "main.js": "/static/js/main.98360be4.js",
+    "main.js": "/static/js/main.e7331bb1.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Sudipta_Bhattacharjee_Resume.pdf": "/static/media/Sudipta_Bhattacharjee_Resume.e40044941b001e924f0a.pdf",
+    "static/media/Sudipta_Bhattacharjee_Resume.pdf": "/static/media/Sudipta_Bhattacharjee_Resume.dcd1925ccc848f5c41bc.pdf",
     "static/media/creativity1.png": "/static/media/creativity1.445675a0a00c2757a1d6.png",
     "static/media/timeManage.png": "/static/media/timeManage.4644a4b2b8ed5f538eec.png",
     "static/media/projectManagement.png": "/static/media/projectManagement.56532bbb9da241b0f1c8.png",
@@ -28,11 +28,11 @@
     "static/media/css.svg": "/static/media/css.afb434f6d712d3e4ff53be8da4d9876a.svg",
     "static/media/html.svg": "/static/media/html.75bdf0b057c088503944680032ea6347.svg",
     "main.f9b95faa.css.map": "/static/css/main.f9b95faa.css.map",
-    "main.98360be4.js.map": "/static/js/main.98360be4.js.map",
+    "main.e7331bb1.js.map": "/static/js/main.e7331bb1.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9b95faa.css",
-    "static/js/main.98360be4.js"
+    "static/js/main.e7331bb1.js"
   ]
 }
